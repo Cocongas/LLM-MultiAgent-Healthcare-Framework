@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5d4b8950-5985-4f58-b1fd-013b2808c87b)# LLM-MultiAgent-Healthcare-Framework
+# LLM-MultiAgent-Healthcare-Framework
 "A conceptual framework for orchestrating LLM multi-agent workflows in healthcare using the Swarm framework."
 
 This repository demonstrates a conceptual framework for implementing multi-agent workflows in healthcare using OpenAI's **Swarm framework**. By orchestrating multiple LLMs, this project showcases how collaborative AI agents can enhance diagnostic accuracy, streamline patient management, and promote transparency in decision-making.
